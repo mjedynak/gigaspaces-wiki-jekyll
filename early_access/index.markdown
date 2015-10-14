@@ -24,20 +24,15 @@ weight:
 
 [XAP Premium](http://www.gigaspaces.com/tempfiles/downloads/EarlyAccess/xap/11.0.0/m3/gigaspaces-xap-premium-11.0.0-m3-b14704-with-license.zip)
 
-[XAP Caching](http://www.gigaspaces.com/tempfiles/downloads/EarlyAccess/xap/11.0.0/m3/gigaspaces-xap-caching-11.0.0-m3-b14704.zip)
-
 [MemoryXtend](http://www.gigaspaces.com/tempfiles/downloads/EarlyAccess/xap/11.0.0/m3/blobstore-11.0.0-14704_M3_1.noarch.rpm)
 {%endpanel%}
 
 
 {%panel title=.Net%}
+
 [XAP Premium x86](http://www.gigaspaces.com/tempfiles/downloads/EarlyAccess/xap/11.0.0/m3/GigaSpaces-XAP.NET-Premium-11.0.0.14704-M3-x86.msi)
 
 [XAP Premium x64](http://www.gigaspaces.com/tempfiles/downloads/EarlyAccess/xap/11.0.0/m3/GigaSpaces-XAP.NET-Premium-11.0.0.14704-M3-x64.msi)
-
-[XAP Caching x86](http://www.gigaspaces.com/tempfiles/downloads/EarlyAccess/xap/11.0.0/m3/GigaSpaces-XAP.NET-Caching-11.0.0.14704-M3-x86.msi)
-
-[XAP Caching x64](http://www.gigaspaces.com/tempfiles/downloads/EarlyAccess/xap/11.0.0/m3/GigaSpaces-XAP.NET-Caching-11.0.0.14704-M3-x64.msi)
 {%endpanel%}
 
 {%panel title=CPP%}
